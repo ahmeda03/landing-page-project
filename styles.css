@@ -1,0 +1,32 @@
+
+
+body {
+    padding: 0 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation-header {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #1F2937;
+}
+
+ul li a {
+    text-decoration: none;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: none;
+    margin: none;
+
+    display: flex;
+    gap: 10px;
+}
+
+.nav-logo {
+    margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;    
+}
